@@ -9,12 +9,19 @@ The refactoring process involved reimagining the application's architecture for 
 Key Features
 
 •	Enhanced Data Input Handling: Streamlined import functionality for sales data from TX, XML or HTML files, with improved error handling and validation.
+
 •	Advanced Salesman Management: Revamped agent selection and management interface, providing a clearer overview of sales performance and commissions.
+
 •	Dynamic Report Generation: Enhanced reporting capabilities allowing for more customizable reports on sales and commissions, available in TXT,XML and HTML formats.
+
 •	Improved Sales Receipts Management: More intuitive interface for adding and updating sales receipts, with real-time data validation.
+
 •	Modernized User Interface: A completely redesigned GUI offering a more engaging and user-friendly experience.
+
 System Requirements
+
 •	Java Runtime Environment (JRE) 8 or later.
+
 •	For development: Eclipse IDE with relevant Java development plugins.
 
 Installation and Usage
@@ -22,12 +29,14 @@ Installation and Usage
 To use the refactored application:
 1.	Ensure Java Runtime Environment (JRE) 8 or later is installed on your machine.
 2.	Download the latest release of the application.
- Acknowledgments
+
+Acknowledgments
+
 Special thanks to Prof. A. Zarras for guiding the development process.
 
 Cs team:
 
-Soldatou Christina-Olympia
+Soldatou Christina-Olympia,
 Tsapikouni Georgia
 
 
