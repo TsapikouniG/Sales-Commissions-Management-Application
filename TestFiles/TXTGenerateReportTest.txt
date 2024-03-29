@@ -1,0 +1,10 @@
+Name: Apostolos Zarras
+AFM: 130456093
+
+
+Total Sales: 0.0
+Trousers Sales: 0.0
+Skirts Sales: 0.0
+Shirts Sales: 0.0
+Coats Sales: 0.0
+Commission: 0.0

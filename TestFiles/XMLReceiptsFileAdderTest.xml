@@ -1,0 +1,13 @@
+
+<Receipt>
+    <ReceiptID>1</ReceiptID>
+    <Date>25/2/2014</Date>
+    <Kind>Coats</Kind>
+    <Sales>2000.0</Sales>
+    <Items>10</Items>
+    <Company>Hand Made Clothes</Company>
+    <Country>Greece</Country>
+    <City>Ioannina</City>
+    <Street>Kaloudi</Street>
+    <Number>10</Number>
+</Receipt>

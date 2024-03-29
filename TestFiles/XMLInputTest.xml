@@ -1,0 +1,18 @@
+<Salesman>
+    <Name>Apostolos Zarras</Name>
+    <AFM>130456093</AFM>
+    <Receipts>
+        <Receipt>
+            <ReceiptID>1</ReceiptID>
+            <Date>25/2/2014</Date>
+            <Kind>Coats</Kind>
+            <Sales>2000.0</Sales>
+            <Items>10</Items>
+	    <Name>Hand Made Clothes</Name>
+            <Country>Greece</Country>
+            <City>Ioannina</City>
+            <Street>Kaloudi</Street>
+            <Number>10</Number>
+        </Receipt>
+    </Receipts>
+</Salesman>
